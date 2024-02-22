@@ -1,11 +1,11 @@
 # Noughts and Crosses Game
 
-### Overview
+## Overview
 
 Noughts and Crosses, also known as Tic-Tac-Toe, is a classic game for two players, X and O, who take turns marking the spaces in a 3×3 grid. The player who succeeds in placing three of their marks in a horizontal, vertical, or diagonal row is the winner. This web-based version allows two players to play the game on a single device, with an option to restart the game at any time.
 
 
-### Features
+## Features
 
 **Dynamic Game Board:** A 3x3 grid where players can click to mark their Nought or Cross.
 
@@ -19,7 +19,7 @@ Noughts and Crosses, also known as Tic-Tac-Toe, is a classic game for two player
 
 
 
-### Development Notes
+## Development Notes
 
 The game logic is implemented in JavaScript, handling player turns, win/draw detection, and board state management.
 
